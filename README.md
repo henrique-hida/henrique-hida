@@ -1,14 +1,9 @@
-## Welcome to my page
+## Welcome to my page!
 
 I'm Henrique Hida, a fullstack student borned in Iida, Japan 🇯🇵 and raised in Brazil 🇧🇷
-
-• Studying System Analysis and Development 
-<br>
-• Currently focusing on backend studies
 <br>
 • You will see many projects here soon 😁
 
-##
 
 <picture>
   <source height=170 align="center"
