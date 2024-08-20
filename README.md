@@ -14,7 +14,7 @@ I'm Henrique Hida, a fullstack student borned in Iida, Japan 🇯🇵 and raised
     srcset="https://github-readme-stats.vercel.app/api?username=henrique-hida&show_icons=true&hide=contribs&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique_hida&show_icons=true" />
 </picture>
 
 
