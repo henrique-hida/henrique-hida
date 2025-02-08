@@ -49,7 +49,7 @@ I'm Henrique Hida, a fullstack student borned in Iida, Japan 🇯🇵 and raised
   <a href="https://www.instagram.com/henrique_hida/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://is.gd/hidamail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<p>phone: +55 (42)99905-1943</p>
+<p>phone: +55 (11)96945-0912</p>
 email: hmhida@icloud.com
 
 
