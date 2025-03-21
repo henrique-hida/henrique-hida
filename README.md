@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-I'm Henrique Hida, a fullstack student borned in Iida, Japan 🇯🇵 and raised in Brazil 🇧🇷
+I'm Henrique Hida, a mobile student borned in Iida, Japan 🇯🇵 and raised in Brazil 🇧🇷
 <br>
 • You will see many projects here soon 😁
 
