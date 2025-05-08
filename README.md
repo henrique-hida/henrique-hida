@@ -4,33 +4,40 @@ I'm Henrique Hida, a mobile student borned in Iida, Japan 🇯🇵 and raised in
 <br>
 • You will see many projects here soon 😁
 
-
 <picture>
-  <source height=170 align="center"
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=henrique-hida&show_icons=true&hide=contribs&theme=vue&bg_color=00000000&text_color=c0d1ee"
     media="(prefers-color-scheme: dark)"
   />
-  <source height=170 align="center"
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=henrique-hida&show_icons=true&hide=contribs&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-hida&show_icons=true" />
+  <img
+    height="165"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=henrique-hida&show_icons=true&hide=contribs&theme=vue"
+  />
 </picture>
 
 
 <picture>
-  <source align="center"
-    srcset="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&bg_color=00000000&text_color=c0d1ee&cache_seconds=1800"
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&bg_color=00000000&text_color=c0d1ee&cache_seconds=1800"
     media="(prefers-color-scheme: dark)"
   />
-  <source align="center"
-    srcset="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&cache_seconds=1800"
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&cache_seconds=1800"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&cache_seconds=1800" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-hida&layout=compact&theme=vue&cache_seconds=1800"
+  />
 </picture>
 
-a
+
+
 ##
 
 <div style="display: inline_block">
