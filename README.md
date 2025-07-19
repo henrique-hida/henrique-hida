@@ -5,8 +5,8 @@
 <p align="center">
 🇯🇵 Born in Iida, Japan<br>
 🇧🇷 Raised in Brazil<br>
-🧠 Currently studying Spring Boot<br>
-🧑🏽‍💻 Working at SMAA Mogi<br>
+🧠 Currently studying SwiftUI<br>
+🧑🏽‍💻 Working at SMASA Mogi<br>
 💻 ADS student at FATEC
 </p>
 
