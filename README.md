@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61e786&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61E786&size=26&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Henrique+Hida!;A+fullstack+and+mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61E786&size=26&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Henrique+Hida!;A+iOS+Developer)](https://git.io/typing-svg)
 
 <p align="center">
 🇯🇵 Born in Iida, Japan<br>
