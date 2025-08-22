@@ -5,7 +5,7 @@
 <p align="center">
 🇯🇵 Born in Iida, Japan<br>
 🇧🇷 Raised in Brazil<br>
-🧠 Currently studying SwiftUI<br>
+🧠 Currently studying UIKit<br>
 🧑🏽‍💻 Working at SMASA Mogi<br>
 💻 ADS student at FATEC
 </p>
