@@ -42,7 +42,7 @@
 <h3 align="center">GitHub Status</h3>
 
 <p align="center">  
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=henrique-hida&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=61E786&title_color=61E786&icon_color=61E786&text_color=61E786&bg_color=212830"/> 
+  <img width="70%" src="https://github-readme-stats-ruddy-delta-g03qmwyoc8.vercel.app/api?username=henrique-hida&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=61E786&title_color=61E786&icon_color=61E786&text_color=61E786&bg_color=212830"/> 
 </p>
 
 ##
