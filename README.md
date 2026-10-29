@@ -5,8 +5,7 @@
 <p align="center">
 🇯🇵 Born in Iida, Japan<br>
 🇧🇷 Raised in Brazil<br>
-🧠 Currently studying UIKit<br>
-🧑🏽‍💻 Working at SMASA Mogi<br>
+🧑🏽‍💻 Working at ASA<br>
 💻 ADS student at FATEC
 </p>
 
@@ -15,20 +14,18 @@
 <h3 align="center">Technologies</h3>
 
 <p align="center">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />&nbsp;
-  <img height="40" width="40" src="/assets/swiftui.png" />&nbsp; 
-  <img height="40" width="40" src="/assets/swiftdata.webp" />&nbsp; 
-  <img height="40" width="40" src="/assets/swifttesting.png" />&nbsp; 
-  <img height="40" width="40" src="/assets/xctest.webp" />&nbsp; 
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />&nbsp; 
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />&nbsp; 
 </p>
 
 <p align="center">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />&nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />    
 </p>
 
 ##
